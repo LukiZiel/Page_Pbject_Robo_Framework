@@ -29,7 +29,7 @@ Error messages for mandatory fields
     Leave the mandatory fields (marked with *) blank and click Register button.
     Verify that error has been displayed for the mandatory fields. 
 
-Login negativ path (invalid e-mail)
+Login negative path (invalid e-mail)
     Click on sign in link.
     Enter invalid email address in the email box and click enter.
     Validate that an error message is displaying saying "Invalid email address."
