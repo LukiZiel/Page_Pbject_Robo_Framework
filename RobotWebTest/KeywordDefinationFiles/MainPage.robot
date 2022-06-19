@@ -8,7 +8,7 @@ Variables    ../TestData/TestData.py
 Click on sign in link.
     Wait Until Element Is Visible     ${SingInButtonMain}
     Click Element    ${SingInButtonMain}
-Enter your email address in 'Create and account' section.
+Enter your email address in 'Create an account' section.
     ${value}    random_email.Random Char
     Input Text    ${EmailField}   ${value}
 Click on Create an Account button.

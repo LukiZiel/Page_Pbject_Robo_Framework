@@ -15,7 +15,7 @@ Suite Teardown    Close Browser
 
 Automate User Registration
     Click on sign in link.
-    Enter your email address in 'Create and account' section.
+    Enter your email address in 'Create an account' section.
     Click on Create an Account button.
     Enter your Personal Information, Address and Contact info.
     Click on Register button.
