@@ -6,7 +6,7 @@ Resource    ../KeywordDefinationFiles/Category.robot
 Resource    ../KeywordDefinationFiles/MainPage.robot
 Resource    ../KeywordDefinationFiles/MyAccount.robot
 Resource    ../KeywordDefinationFiles/Order.robot
-Resource    ../KeywordDefinationFiles/Produckt.robot
+Resource    ../KeywordDefinationFiles/Product.robot
 Resource    ../KeywordDefinationFiles/Settings.robot
 Suite Setup    Open the browser on the main page
 Suite Teardown    Close Browser
