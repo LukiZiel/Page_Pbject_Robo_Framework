@@ -1,13 +1,13 @@
 *** Settings ***
 Documentation  Page Object in Robot Framework and Selenium Webdriver 
 Library    SeleniumLibrary
-Resource    ../KeywordDefinationFiles/AccountCreationForm.robot
-Resource    ../KeywordDefinationFiles/Category.robot
-Resource    ../KeywordDefinationFiles/MainPage.robot
-Resource    ../KeywordDefinationFiles/MyAccount.robot
-Resource    ../KeywordDefinationFiles/Order.robot
-Resource    ../KeywordDefinationFiles/Product.robot
-Resource    ../KeywordDefinationFiles/Settings.robot
+Resource    ../KeywordDefinitionFiles/AccountCreationForm.robot
+Resource    ../KeywordDefinitionFiles/Category.robot
+Resource    ../KeywordDefinitionFiles/MainPage.robot
+Resource    ../KeywordDefinitionFiles/MyAccount.robot
+Resource    ../KeywordDefinitionFiles/Order.robot
+Resource    ../KeywordDefinitionFiles/Product.robot
+Resource    ../KeywordDefinitionFiles/Settings.robot
 Suite Setup    Open the browser on the main page
 Suite Teardown    Close Browser
 
