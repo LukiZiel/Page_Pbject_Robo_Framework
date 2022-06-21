@@ -24,7 +24,7 @@ Automate User Registration
 
 Error messages for mandatory fields
     Click on sign in link.
-    Enter your email address in 'Create and account' section.
+    Enter your email address in 'Create an account' section.
     Click on Create an Account button.
     Leave the mandatory fields (marked with *) blank and click Register button.
     Verify that error has been displayed for the mandatory fields. 
